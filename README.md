@@ -6,3 +6,5 @@
  2. trained decision tree classifier on iris dataset, decision tree regressor on a noisy quadratic dataset
 
  3. trained decision tree on moons dataset
+
+ 4. trained ensemble model using hard voting with 3 diverse classifiers
