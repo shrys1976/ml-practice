@@ -7,4 +7,6 @@
 
  3. trained decision tree on moons dataset
 
- 4. trained ensemble model using hard voting with 3 diverse classifiers
+ 4. trained ensemble model using hard voting with 3 diverse classifiers.
+
+ 5. built classifiers for MNIST using multiple models(RF,Extra trees, SVM), improved performance using stacking and voting ensemble
